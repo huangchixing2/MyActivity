@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyActivity</string>
+    <string name="button1">Button</string>
+    <string name="text_view">hello secondActivity</string>
+</resources>
